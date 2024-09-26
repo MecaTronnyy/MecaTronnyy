@@ -23,3 +23,8 @@ Loading...
 [Linguagem Java](https://www.udemy.com/course/java-curso-completo/)<br>
 [Banco De Dados e SQL](https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado/)<br>
 </details>
+
+<div>
+
+![github-user-contribution](https://github.com/user-attachments/assets/1ed269b8-83ef-43a5-b226-0811e33fa0bf)
+</div>
