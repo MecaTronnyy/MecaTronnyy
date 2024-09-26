@@ -7,7 +7,7 @@ Loading...
 
 <div align="center">
   <a href="https://github.com/MecaTronny">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MecaTronny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MecaTronny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
   </div>
     <br>
     <hr>
